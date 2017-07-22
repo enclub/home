@@ -16,8 +16,8 @@
 title: Energy Club IITB
 #email: your-email@domain.com
 description: "This page is dedicated to Energy Club IITB . Its is the result of motivation by the disaster of climate change and need of renewable energy sources . We discuss about the innovation and ideas and possibilities in modern energy technologies "
-baseurl: "/enciitb" # the subpath of your site, e.g. /blog
-url: "https://prabhat496.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "https://enclub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
