@@ -1,0 +1,129 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Energy Club IITB
+#email: your-email@domain.com
+description: "This page is dedicated to Energy Club IITB . Its is the result of motivation by the disaster of climate change and need of renewable energy sources . We discuss about the innovation and ideas and possibilities in modern energy technologies "
+baseurl: "/enciitb" # the subpath of your site, e.g. /blog
+url: "https://prabhat496.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page)
+
+colors:  #in hex code if not noted else
+  primary:  "#00b3fe" #"#F70031"
+  primary_rgb: "0,179,254" #"247,0,49"rgb of the primary. Needed in some places for the transparency effect.
+  secondary:   "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+
+# Making projects separate from posts
+collections:
+  events:
+    output: true
+    permalink: /events/:title/
+  questions:
+    output: false
+    permalink: /questions/:title/
+
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+
+  - title: facebook
+    url: https://www.facebook.com/EnergyClubIITB/
+  - title: google
+    url: https://groups.google.com/forum/#!forum/energyclubiitb
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - Urja Lab
+    - IITB, Mumbai,
+    - India, 400076.
+email: enclubiitb@gmail.com
+facebook: https://www.facebook.com/EnergyClubIITB/
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on About page.
+managers:
+  - name: Santnam Bakshi
+    position: Manager
+    text: Hard working and enthusiastic member of our Team
+    img: team01.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:santnam@gmail.com
+      - title: facebook
+        url: https://www.facebook.com/santnam.bakshi
+  - name: Sai Siddhartha Majji
+    position: Manager
+    text: My life, my rules
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: facebook
+        url: 
+conveners:
+  - name: Soumil Chaubal
+    position: Convener
+    text: What I want is not debatable.
+    img: soumil.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: facebook
+        url: https://www.facebook.com/soumil.chaubal
+  - name: Prabhat Ranjan
+    position: Convener
+    text: Be honest to yourself and eventually everything will fall into place.
+    img: prabhat.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:ranjan496prabhat@gmail.com
+      - title: facebook
+        url: https://www.facebook.com/prabhat496
+  - name: Govind Menon
+    position: Convener
+    text: If I had to choose a religion, the sun as the universal giver of life would be my god.
+    img: govind.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:govind.menon1998@gmail.com
+      - title: facebook
+        url: https://www.facebook.com/govindmenon1998
+
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Energy Club, IIT Bombay is a student organization started by students of the Department of Energy Science and Engineering, bringing energy conservation and sustainable development enthusiasts under one roof."
+
+# Quote content. Shown on Home and About page.
+quote:
+    message: “We are the first generation to be able to end poverty and the last generation that can take steps to avoid the worst impact of climate change.  ”
+    author: Ban Ki-moon
+    position: Secretary General of the United Nations  
+
