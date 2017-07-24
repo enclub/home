@@ -85,9 +85,9 @@ managers:
     img: team02.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:msaisiddhardha@gmail.com
       - title: facebook
-        url: 
+        url: https://www.facebook.com/profile.php?id=100009448909311
 conveners:
   - name: Soumil Chaubal
     position: Convener
