@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "In praise of Trump pulling out of the Paris climate pact"
 date: 2017-05-31 16:54:46
 author: KEN WARD

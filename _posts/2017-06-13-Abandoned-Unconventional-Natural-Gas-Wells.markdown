@@ -1,5 +1,6 @@
 ---
 layout: post
+commnets: true
 title: "Abandoned Unconventional Natural Gas Wells: A Looming Problem for Pennsylvania?"
 date: 2017-06-13 16:54:46
 author: Assistant Professor Jeremy Weber and Andrew Earle
