@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Americans win when energy competes"
 date: 2017-02-06 16:54:46
 author: DOUG HAUGH
