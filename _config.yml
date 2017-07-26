@@ -72,7 +72,7 @@ facebook: https://www.facebook.com/EnergyClubIITB/
 managers:
   - name: Santnam Bakshi
     position: Manager
-    text: Hard working and enthusiastic member of our Team
+    text: Things aren’t always what they seem.
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -81,7 +81,7 @@ managers:
         url: https://www.facebook.com/santnam.bakshi
   - name: Sai Siddhartha Majji
     position: Manager
-    text: My life, my rules
+    text: Energy conservation is the foundation of energy Independence.
     img: team02.jpg
     social:
       - title: envelope #use for email address
