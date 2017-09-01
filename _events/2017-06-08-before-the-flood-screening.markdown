@@ -5,12 +5,9 @@ date:   2017-06-08 21:00:00
 venue: FC Kohli
 categories:
 - screening
-img: before_the_flood.jpg
+img: before_the_flood_sq.png
 carousel:
-- before_the_flood1.jpg
-- before_the_flood1.jpg
-- before_the_flood1.jpg
-- before_the_flood1.jpg
+- before_the_flood.jpg
 website: https://www.beforetheflood.com/
 ---
 <h3>Before The Flood</h3>
