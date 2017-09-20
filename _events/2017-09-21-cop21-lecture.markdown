@@ -2,13 +2,13 @@
 layout: event
 title:  "COP 21"
 date:   2017-09-21 21:00:00
-venue: FC Kohli
+venue: LC 102
 categories:
 - lecture
 img: cop.png
 carousel:
 - cop.png
-website: 
+website: http://www.cop21paris.org/
 ---
 <h3>Lecture on COP 21</h3>
 
