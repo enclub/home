@@ -1,0 +1,19 @@
+---
+layout: event
+title:  "COP 21"
+date:   2017-09-21 21:00:00
+venue: FC Kohli
+categories:
+- lecture
+img: cop.png
+carousel:
+- cop.png
+website: 
+---
+<h3>Lecture on COP 21</h3>
+
+The Talk will give a brief account of the Paris climate agreement and how
+effective it will be in combating climate change.
+India's role in the agreement, and the consequences of Donald Trump
+withdrawing from the Paris Climate Agreement. 
+
