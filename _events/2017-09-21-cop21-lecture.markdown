@@ -8,6 +8,14 @@ categories:
 img: cop.png
 carousel:
 - cop.png
+- cop1.jpg
+- cop2.jpg
+- cop3.jpg
+- cop4.jpg
+- cop5.jpg
+- cop6.jpg
+- cop7.jpg
+
 website: http://www.cop21paris.org/
 ---
 <h3>Lecture on COP 21</h3>
