@@ -18,7 +18,7 @@ By- Prof. Anish Modi
 Did you know we have an alternative, Solar thermal can be used for heating and cooling purposes.
 <br/>
 Energy Club presents 
-</br>
+<br/>
 a lecture on “Solar Thermal technology” by Prof. Anish Modi on these aspects and more. 
 Join us to find out!
 
